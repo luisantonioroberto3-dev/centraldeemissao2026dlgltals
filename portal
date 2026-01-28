@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Traz Papel | Papelaria em Camaçari - BA</title>
+    <meta name="description" content="Traz Papel Artigos de Papelaria em Camaçari. Material escolar, escritório, informática, brinquedos e muito mais. Atendimento rápido.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #1f3c88;
+            color: #fff;
+            padding: 50px 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+        header p {
+            font-size: 18px;
+            margin-top: 12px;
+        }
+        .cta-button {
+            display: inline-block;
+            margin-top: 25px;
+            padding: 16px 36px;
+            background: #ffcc00;
+            color: #000;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        section {
+            padding: 50px 20px;
+            max-width: 1200px;
+            margin: auto;
+            background: #fff;
+            margin-bottom: 20px;
+        }
+        section h2 {
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 28px;
+        }
+        .services {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+        .service-box {
+            border: 1px solid #ddd;
+            padding: 25px;
+            border-radius: 6px;
+            background: #fafafa;
+        }
+        .service-box h3 {
+            margin-top: 0;
+            color: #1f3c88;
+        }
+        .about {
+            background: #ededed;
+        }
+        footer {
+            background: #1f3c88;
+            color: #fff;
+            padding: 30px 20px;
+            text-align: center;
+        }
+        footer p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Traz Papel</h1>
+    <p>Artigos de Papelaria, Escolar e Escritório em Camaçari</p>
+    <a href="tel:7120004200" class="cta-button">📞 Ligue Agora</a>
+</header>
+
+<section>
+    <h2>O Que Você Encontra Aqui</h2>
+    <div class="services">
+
+        <div class="service-box">
+            <h3>Papelaria Completa</h3>
+            <p>Cadernos, papéis, canetas, mochilas e materiais escolares em geral.</p>
+        </div>
+
+        <div class="service-box">
+            <h3>Material de Escritório</h3>
+            <p>Produtos para empresas, escritórios, escolas e profissionais.</p>
+        </div>
+
+        <div class="service-box">
+            <h3>Informática</h3>
+            <p>Suprimentos e acessórios de informática para o dia a dia.</p>
+        </div>
+
+        <div class="service-box">
+            <h3>Livros e Brinquedos</h3>
+            <p>Opções educativas, recreativas e presentes para todas as idades.</p>
+        </div>
+
+        <div class="service-box">
+            <h3>Utilidades Diversas</h3>
+            <p>Artigos variados para uso pessoal, escolar e doméstico.</p>
+        </div>
+
+        <div class="service-box">
+            <h3>Atendimento Local</h3>
+            <p>Loja física no centro de Camaçari, com atendimento rápido e direto.</p>
+        </div>
+
+    </div>
+</section>
+
+<section class="about">
+    <h2>Sobre a Traz Papel</h2>
+    <p>
+        A Traz Papel Artigos de Papelaria LTDA atua desde 2022 em Camaçari,
+        oferecendo variedade, qualidade e preços acessíveis em artigos de papelaria,
+        material escolar, escritório e utilidades.
+    </p>
+</section>
+
+<section>
+    <h2>Fale Conosco</h2>
+    <p><strong>Telefone:</strong> (71) 2000-4200</p>
+    <p><strong>E-mail:</strong> 01adrianorocha@gmail.com</p>
+    <p><strong>Endereço:</strong> Av. Deputado Luís Eduardo Magalhães, 03 – Centro – Camaçari/BA</p>
+</section>
+
+<footer>
+    <p>© 2026 Traz Papel Artigos de Papelaria LTDA</p>
+    <p>CNPJ: 47.185.800/0001-98</p>
+</footer>
+
+</body>
+</html>
